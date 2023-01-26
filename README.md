@@ -54,23 +54,8 @@ print(norm)
 
 ```
 ## Output:
-### 1-Norm of a Matrix
-<br>
 ![output](output1.png)
-<br>
-<br>
-
-### 2-Norm of a Matrix
-<br>
-<br>
 ![output](output2.png)
-<br>
-
-### Infinity Norm of a Matrix
-<br>
 ![output](output3.png)
-<br>
-<br>
-
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
